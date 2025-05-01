@@ -6,7 +6,7 @@
 ## Respuesta:
 Los 4 pilares fundamentales de la #POO son:
 
-*Encapsulamiento:* Consiste en ocultar los datos internos de un objeto (sin necesitar saber como funciona internamente) y exponerlo solo a través de métodos públicos. Promoviendo la seguridad de los datos, porque evita las modificaciones directas no controladas.También facilita la modularidad y mantenimiento del código, pues los cambios internos de un objeto no afectan necesariamente a otras partes del sistema.
+*Encapsulamiento:* Consiste en ocultar los datos internos de un objeto (sin necesidad saber como funciona internamente) y exponerlo solo a través de métodos públicos. Promoviendo la seguridad de los datos, porque evita las modificaciones directas no controladas.También facilita la modularidad y mantenimiento del código, pues los cambios internos de un objeto no afectan necesariamente a otras partes del sistema.
 
 *Abstracción:* se enfoca en mostrar solo la información relevante de un objeto, ocultando los detalles complejos de su implementación.
 
@@ -46,6 +46,9 @@ diferente. Crea una función que reciba un vehículo y llame a ese método.
  _*Celina Pereyra*_ :
  De los cuatro pilares de la POO, siento que el encapsulamiento es el que mejor comprendo (pero nose si lo logro aplicar bien). Entiendo la idea de agrupar los datos (atributos) y los métodos que operan sobre esos datos dentro de una clase, y controlar el acceso a esos datos mediante modificadores de acceso (como private, protected, public).
 El que me cuesta más es herencia. Entiendo la idea de la reutilización de código y cómo se pueden crear jerarquías de clases, pero dudo sobre cuál es la mejor manera de estructurar esas jerarquías. 
+- Viviana Enriquez:
+  Encapsulamiento y abstracción podrían ser los que mejor comprendo.
+  Durante la practica Herencia sería el que más me cuesta aplicar, por la forma en la cuál debo discernir y manipular la información. Dela misma forma me pasa con Abstración, en atributo y  detalles.
 
 ## Desafio Adicional
 Agregá encapsulamiento con atributos privados y métodos get y set. 
