@@ -5,9 +5,13 @@
 ¿Cuáles son los 4 pilares de la programación orientada a objetos y qué aporta cada uno? 
 ## Respuesta:
 Los 4 pilares fundamentales de la #POO son:
+
 *Encapsulamiento:* Consiste en ocultar los datos internos de un objeto (sin necesitar saber como funciona internamente) y exponerlo solo a través de métodos públicos. Promoviendo la seguridad de los datos, porque evita las modificaciones directas no controladas.También facilita la modularidad y mantenimiento del código, pues los cambios internos de un objeto no afectan necesariamente a otras partes del sistema.
+
 *Abstracción:* se enfoca en mostrar solo la información relevante de un objeto, ocultando los detalles complejos de su implementación.
+
 *Herencia:* Este pilar permite que una clase (la subclase o clase hija) adquiera las propiedades y los comportamientos de otra clase (la superclase o clase padre). Es como heredar rasgos familiares: la subclase ya tiene ciertas características predefinidas de su "padre".
+
 *Polimorfismo:* Literalmente significa "muchas formas". En POO, se refiere a la capacidad de un objeto de tomar muchas formas diferentes. Esto se logra a través de la herencia y la implementación de interfaces, donde diferentes clases pueden responder al mismo mensaje (llamada a un método) de maneras distintas.
 
 
