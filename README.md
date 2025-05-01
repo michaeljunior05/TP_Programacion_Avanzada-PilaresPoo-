@@ -20,9 +20,18 @@ Los 4 pilares fundamentales de la #POO son:
 2. ¿Qué pilar permite a las subclases sobrescribir métodos?
 ## Respuesta:
 
+<<<<<<< HEAD
+## Respuesta:
+
+1. El encapsulamiento protege protege los datos dentro de una clase restringiendo su acceso directo, asegurandose que solo metodos especificos puedan modificarlos, mientras que la abstraccion oculta detalles de implementación y expone solo lo esencial para el usuario.
+
+2. 
+
+=======
 1. El encapsulamiento protege protege los datos dentro de una clase restringiendo su acceso directo, asegurandose que solo metodos especificos puedan modificarlos, mientras que la abstraccion oculta detalles de implementación y expone solo lo esencial para el usuario.
 
 2. El pilar que permite a las subclases sobrescribir métodos es la herencia. Esta les permite adquirir los métodos y atributos de una clase padre, pero también les da la capacidad de sobrescribir los métodos heredados para modificar su comportamiento.
+
 
 ## Ejercicio:  
 
