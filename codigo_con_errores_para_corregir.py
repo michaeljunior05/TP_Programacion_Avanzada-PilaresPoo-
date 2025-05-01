@@ -1,11 +1,9 @@
-def decorator(func): 
-    print("Decorating...") 
-    return func 
+class Dog:
+    def __init__(self, name):
+        self.name = name
 
-@decorator 
-def greet(): 
-    print("Hi!") 
+    def speak(self):
+        return "woof"
 
-greet()
-
-#Corregir: Mostrar cómo se aplica realmente un decorador con un wrapper. 
+dog = Dog("Bobby")
+print(dog.name)
