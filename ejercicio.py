@@ -26,4 +26,6 @@ class Auto(Vehiculo):
     def mostrar_info(self):
         return f"Auto -- {super().mostrar_info()} -- ruedas: {self.ruedas} -- luces: {self.luces}."
 
+def mostrar_informacion(vehiculo):
+    print(vehiculo.mostrar_info())
 
