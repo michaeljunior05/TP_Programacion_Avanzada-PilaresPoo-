@@ -7,14 +7,14 @@ class Vehiculo:
         return f"Vehículo -- {self.modelo} -- {self.marca} -- {self.color}."
 
 class Moto(Vehiculo):
-    def __init__(self,modelo:str,marca:str,color:int,ruedas:int,luces:int):
+    def __init__(self,modelo:str,marca:str,color:str,ruedas:int,luces:int):
         super().__init__(modelo,marca,color)
         self.ruedas = ruedas
         self.luces = luces
     
     
     def mostrar_info(self):
-        return f"Moto -- {super().mostrar_info(self)} -- {self.ruedas} -- {self.luces}."
+        return f"Moto -- {super().mostrar_info()} -- ruedas: {self.ruedas} -- luces: {self.luces}."
 
 class Auto(Vehiculo):
 
@@ -24,6 +24,6 @@ class Auto(Vehiculo):
         self.luces = luces
     
     def mostrar_info(self):
-        return f"Auto -- {super().mostrar_info(self)} -- {self.ruedas} -- {self.luces}."
+        return f"Auto -- {super().mostrar_info()} -- ruedas: {self.ruedas} -- luces: {self.luces}."
 
 
