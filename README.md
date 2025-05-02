@@ -1,5 +1,7 @@
 # TP_Programacion_Avanzada-PilaresPoo-
-
+*Junior Flores 95.122.461
+Celina Pereyra 39.746.647
+Viviana Enriquez 32822300*
  
 ## Pregunta teórica: 
 ¿Cuáles son los 4 pilares de la programación orientada a objetos y qué aporta cada uno? 
