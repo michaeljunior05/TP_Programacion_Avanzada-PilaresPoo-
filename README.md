@@ -45,10 +45,13 @@ diferente. Crea una función que reciba un vehículo y llame a ese método.
 ## Reflexiones:
  _*Celina Pereyra*_ :
  De los cuatro pilares de la POO, siento que el encapsulamiento es el que mejor comprendo (pero nose si lo logro aplicar bien). Entiendo la idea de agrupar los datos (atributos) y los métodos que operan sobre esos datos dentro de una clase, y controlar el acceso a esos datos mediante modificadores de acceso (como private, protected, public).
-El que me cuesta más es herencia. Entiendo la idea de la reutilización de código y cómo se pueden crear jerarquías de clases, pero dudo sobre cuál es la mejor manera de estructurar esas jerarquías. 
-- Viviana Enriquez:
+ El que me cuesta más es herencia. Entiendo la idea de la reutilización de código y cómo se pueden crear jerarquías de clases, pero dudo sobre cuál es la mejor manera de estructurar esas jerarquías. 
+ _*Viviana Enriquez*_:
   Encapsulamiento podrían ser el que mejor comprendo.
   Durante la practica Herencia sería el que más me cuesta aplicar, por la forma en la cuál debo discernir y manipular la información. Tambien, me pasa con Abstración, en atributo y  detalles.
 
+ _*Junior Flores*_:
+ Entiendo todos pero si tuviera que quedarme con uno seria abstraccion ya que el modelar un objeto del mundo real es relativamente facil, y saber que atributos van o no es pensar segun lo que necesites.
+ Y el que me cuesta aplicar mas el polimorfismo y la herencia ya que es un poco dificil entender como hacer que funcionen el mismo metodo para diferentes subclases.
 ## Desafio Adicional
 Agregá encapsulamiento con atributos privados y métodos get y set. 
